@@ -1,8 +1,9 @@
-# Repository test
-Este é meu primeiro repositório da faculdade
+# Carlos Henrique Marcolino Da Silva
 
-+ Item 1
-+ Item 2
-
-# Repositório teste
-This is my Repository
+  Formação Acadêmica
+  + Técnico em Análise e Desenvolvimento de Sistemas
+  
+  Experiência de Trabalho
+  + Supervisor de produção Cerâmica Silva
+  + Estagiário TV Asa Branca, Caruaru-PE
+  + Analista de Suporte Técnico em TI, Commcenter-SP
